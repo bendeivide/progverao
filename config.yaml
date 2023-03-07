@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://bendeivide.github.io/progverao/
 publishDIR: docs
 languageCode: en-us
 title: A Hugo website
